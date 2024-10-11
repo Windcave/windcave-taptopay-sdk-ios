@@ -1,0 +1,320 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TapToPaySDK
+import Combine
+import Foundation
+import ProximityReader
+import Swift
+import SwiftUI
+@_exported import TapToPaySDK
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum TransactionType : Swift.String {
+  case Purchase
+  case Auth
+  case Validate
+  case Refund
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public protocol Connection {
+  #if compiler(>=5.3) && $AsyncAwait
+  func getToken(body: TapToPaySDK.GetTokenRequest) async throws -> TapToPaySDK.GetTokenResponse
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func termsAccepted(body: TapToPaySDK.TCAcceptNotificationRequest) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func createTransaction(body: TapToPaySDK.CreateTransactionRequest) async throws -> TapToPaySDK.TransactionResponse
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func queryTransaction(txnId: Swift.String) async throws -> TapToPaySDK.TransactionResponse
+  #endif
+}
+public protocol RequestProvider {
+  #if compiler(>=5.3) && $AsyncAwait
+  func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
+}
+public class DirectRequestProvider : TapToPaySDK.RequestProvider {
+  public init(environment: TapToPaySDK.WindcaveEnvironment, apiUsername: Swift.String, apiKey: Swift.String)
+  #if compiler(>=5.3) && $AsyncAwait
+  public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
+  @objc deinit
+}
+public class ProxyRequestProvider : TapToPaySDK.RequestProvider {
+  public init(baseUrl: Swift.String)
+  public func setHeader(headerName: Swift.String, value: Swift.String)
+  #if compiler(>=5.3) && $AsyncAwait
+  public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
+  @objc deinit
+}
+public protocol TapToPayUIDelegate {
+  func openProgressView(view: TapToPaySDK.PrepareProgressView)
+  func dismissProgressView(view: TapToPaySDK.PrepareProgressView)
+}
+public typealias TransactionResultCallback = (TapToPaySDK.TransactionResponse) -> Swift.Void
+public enum WindcaveTapToPayStatus {
+  case uninitialized
+  case unavailable
+  case preparing
+  case readyToUse
+  case readingCard
+  case transacting
+  case transactionFinished
+  public static func == (a: TapToPaySDK.WindcaveTapToPayStatus, b: TapToPaySDK.WindcaveTapToPayStatus) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class TapToPayStatus {
+  public var status: TapToPaySDK.WindcaveTapToPayStatus {
+    get
+    set
+  }
+  public var statusText: Swift.String {
+    get
+    set
+  }
+  public var transactionResponse: (any TapToPaySDK.WindcaveResponse)? {
+    get
+    set
+  }
+  @objc deinit
+}
+public class WindcaveTapToPay {
+  public var status: Combine.CurrentValueSubject<TapToPaySDK.TapToPayStatus, Swift.Never> {
+    get
+  }
+  public var progressView: TapToPaySDK.PrepareProgressView {
+    get
+  }
+  public init(connection: (any TapToPaySDK.Connection)?, requestProvider: (any TapToPaySDK.RequestProvider)?, uiDelegate: (any TapToPaySDK.TapToPayUIDelegate)?, logger: (any TapToPaySDK.TapToPayLogDelegate)?, dataDelegate: (any TapToPaySDK.TapToPayDataDelegate)?) throws
+  #if compiler(>=5.3) && $AsyncAwait
+  public func loadPendingTransactionId() async throws
+  #endif
+  public func hasOutstandingTransaction() -> Swift.Bool
+  public func getOutstandingTransactionId() -> Swift.String?
+  #if compiler(>=5.3) && $AsyncAwait
+  public func restoreTransaction() async throws -> any TapToPaySDK.WindcaveResponse
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func clearOutstandingTransaction() async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func prepare(forceNewToken: Swift.Bool = false) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func isAvailable() async -> Swift.Bool
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func doTransaction(reference: Swift.String, txnType: TapToPaySDK.TransactionType, amount: TapToPaySDK.Amount, notificationUrl: Swift.String?, customerEmail: Swift.String? = nil, callback: TapToPaySDK.TransactionResultCallback?) async throws -> any TapToPaySDK.WindcaveResponse
+  #endif
+  public static func getSDKVersion() -> Swift.String
+  @objc deinit
+}
+public struct GetTokenRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TCAcceptNotificationRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CreateTransactionTapToPayAppleRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CreateTransactionTapToPayRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CreateTransactionCustomerRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CreateTransactionRequest : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public protocol WindcaveResponse : Swift.Decodable, Swift.Encodable {
+}
+public struct TCAcceptNotificationResponse : TapToPaySDK.WindcaveResponse {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct GetTokenResponse : TapToPaySDK.WindcaveResponse {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ResponseErrorItem : Swift.Codable {
+  public let code: Swift.String?
+  public let target: Swift.String?
+  public let message: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct ErrorResponse : TapToPaySDK.WindcaveResponse {
+  public let requestId: Swift.String?
+  public let timestampUtc: Swift.String?
+  public let errors: [TapToPaySDK.ResponseErrorItem]?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TransactionCardDetails : Swift.Codable {
+  public let cardHolderName: Swift.String?
+  public let cardNumber: Swift.String?
+  public let dateExpiryMonth: Swift.String?
+  public let dateExpiryYear: Swift.String?
+  public let type: Swift.String?
+  public let issuerCountryCode: Swift.String?
+  public let id: Swift.String?
+  public let cardNumber2: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TransactionAcquirerDetails : Swift.Codable {
+  public let name: Swift.String?
+  public let mid: Swift.String?
+  public let tid: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TransactionResponse : TapToPaySDK.WindcaveResponse {
+  public let id: Swift.String?
+  public let username: Swift.String?
+  public let authorised: Swift.Bool?
+  public let reCo: Swift.String?
+  public let responseText: Swift.String?
+  public let authCode: Swift.String?
+  public let merchantReference: Swift.String?
+  public let card: TapToPaySDK.TransactionCardDetails?
+  public let amountSurcharge: Swift.String?
+  public let acquirer: TapToPaySDK.TransactionAcquirerDetails?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct Amount : Swift.Comparable {
+  public init(amount: Swift.String, currency: TapToPaySDK.Currency)
+  public init(amount: Foundation.Decimal, currency: TapToPaySDK.Currency)
+  public init(amount: Swift.Double, currency: TapToPaySDK.Currency)
+  public static func == (lhs: TapToPaySDK.Amount, rhs: TapToPaySDK.Amount) -> Swift.Bool
+  public static func < (lhs: TapToPaySDK.Amount, rhs: TapToPaySDK.Amount) -> Swift.Bool
+  public var asDouble: Swift.Double {
+    get
+  }
+}
+public struct WindcaveProgressBar : SwiftUI.View {
+  public var lineWidth: Swift.Float {
+    get
+    set
+  }
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public init(lineWidth: Swift.Float)
+  public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19WindcaveProgressBarV4bodyQrvp", 0) __
+}
+
+public struct Currency : Swift.Equatable {
+  public static func get(code: Swift.String) -> TapToPaySDK.Currency?
+  public var currencyCode: Swift.String {
+    get
+  }
+  public var precision: Swift.Int {
+    get
+  }
+  public static func == (lhs: TapToPaySDK.Currency, rhs: TapToPaySDK.Currency) -> Swift.Bool
+}
+public enum WindcaveLogType {
+  case audit
+  case debug
+  case info
+  case error
+  case critical
+  public static func == (a: TapToPaySDK.WindcaveLogType, b: TapToPaySDK.WindcaveLogType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public protocol TapToPayLogDelegate {
+  func log(_ logType: TapToPaySDK.WindcaveLogType, _ message: Swift.String)
+}
+@_Concurrency.MainActor(unsafe) public struct PrepareProgressView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19PrepareProgressViewV4bodyQrvp", 0) __
+}
+
+public enum TapToPayError : Swift.Error {
+  case wrongInitParameters(details: Swift.String)
+  case notReady
+  case preparing
+  case txnInProgress
+  case txnDetailsMissing
+  case noOutstandingTxn
+  case readerNoDataReturned
+  case readerCardDeclined
+  case readerFailure
+  case readerUnexpectedOutcome
+  case readerError(ProximityReader.PaymentCardReaderSession.ReadError)
+  case featureNotAvailable
+  case unexpectedError
+  case serverRequestCreatingFailed
+  case serverRequestProcessingFailed
+  case serverUnexpectedResponse
+  case serverFailedToReceiveFinalResponseAfterMultipleAttempts
+}
+public enum WindcaveEnvironment : Swift.String {
+  case Production
+  case UAT
+  case QA
+  case Dev
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public protocol TapToPayDataDelegate {
+  #if compiler(>=5.3) && $AsyncAwait
+  func getValue(fieldName: Swift.String) async throws -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func setValue(fieldName: Swift.String, value: Swift.String?) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  func eraseValue(fieldName: Swift.String) async throws
+  #endif
+}
+@_hasMissingDesignatedInitializers public class TapToPayUserDefaultsDataHandler : TapToPaySDK.TapToPayDataDelegate {
+  #if compiler(>=5.3) && $AsyncAwait
+  public func getValue(fieldName: Swift.String) async throws -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func setValue(fieldName: Swift.String, value: Swift.String?) async throws
+  #endif
+  #if compiler(>=5.3) && $AsyncAwait
+  public func eraseValue(fieldName: Swift.String) async throws
+  #endif
+  @objc deinit
+}
+extension TapToPaySDK.TransactionType : Swift.Equatable {}
+extension TapToPaySDK.TransactionType : Swift.Hashable {}
+extension TapToPaySDK.TransactionType : Swift.RawRepresentable {}
+extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Equatable {}
+extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Hashable {}
+extension TapToPaySDK.WindcaveLogType : Swift.Equatable {}
+extension TapToPaySDK.WindcaveLogType : Swift.Hashable {}
+extension TapToPaySDK.WindcaveEnvironment : Swift.Equatable {}
+extension TapToPaySDK.WindcaveEnvironment : Swift.Hashable {}
+extension TapToPaySDK.WindcaveEnvironment : Swift.RawRepresentable {}
