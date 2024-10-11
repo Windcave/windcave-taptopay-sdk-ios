@@ -1,0 +1,11 @@
+framework module TapToPaySDK {
+  umbrella header "TapToPaySDK.h"
+  export *
+
+  module * { export * }
+}
+
+module TapToPaySDK.Swift {
+  header "TapToPaySDK-Swift.h"
+  requires objc
+}
