@@ -7451,21 +7451,21 @@
       "kind": "StringLiteral",
       "offset": 376,
       "length": 5,
-      "value": "\"USD\""
+      "value": "\"AED\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
       "offset": 399,
       "length": 3,
-      "value": "840"
+      "value": "784"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "StringLiteral",
       "offset": 410,
       "length": 5,
-      "value": "\"USD\""
+      "value": "\"AED\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
@@ -7479,49 +7479,49 @@
       "kind": "StringLiteral",
       "offset": 440,
       "length": 5,
-      "value": "\"AUD\""
+      "value": "\"AFN\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
       "offset": 463,
-      "length": 2,
-      "value": "36"
+      "length": 3,
+      "value": "971"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "StringLiteral",
-      "offset": 473,
+      "offset": 474,
       "length": 5,
-      "value": "\"AUD\""
+      "value": "\"AFN\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
-      "offset": 491,
+      "offset": 492,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 504,
       "length": 5,
-      "value": "\"CAD\""
+      "value": "\"AMD\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
-      "offset": 526,
-      "length": 3,
-      "value": "124"
+      "offset": 527,
+      "length": 2,
+      "value": "51"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "StringLiteral",
       "offset": 537,
       "length": 5,
-      "value": "\"CAD\""
+      "value": "\"AMD\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
@@ -7535,26 +7535,4310 @@
       "kind": "StringLiteral",
       "offset": 567,
       "length": 5,
-      "value": "\"GBP\""
+      "value": "\"ANG\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
       "offset": 590,
       "length": 3,
-      "value": "826"
+      "value": "532"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "StringLiteral",
       "offset": 601,
       "length": 5,
-      "value": "\"GBP\""
+      "value": "\"ANG\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
       "kind": "IntegerLiteral",
       "offset": 619,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 631,
+      "length": 5,
+      "value": "\"AOA\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 654,
+      "length": 3,
+      "value": "973"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 665,
+      "length": 5,
+      "value": "\"AOA\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 683,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 695,
+      "length": 5,
+      "value": "\"ARS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 718,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 728,
+      "length": 5,
+      "value": "\"ARS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 746,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 5,
+      "value": "\"AUD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 781,
+      "length": 2,
+      "value": "36"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 791,
+      "length": 5,
+      "value": "\"AUD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 809,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 5,
+      "value": "\"AWG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 844,
+      "length": 3,
+      "value": "533"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 855,
+      "length": 5,
+      "value": "\"AWG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 873,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 885,
+      "length": 5,
+      "value": "\"AZM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 908,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 918,
+      "length": 5,
+      "value": "\"AZM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 936,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 948,
+      "length": 5,
+      "value": "\"AZN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 971,
+      "length": 3,
+      "value": "944"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 982,
+      "length": 5,
+      "value": "\"AZN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1000,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1012,
+      "length": 5,
+      "value": "\"BAM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1035,
+      "length": 3,
+      "value": "977"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1046,
+      "length": 5,
+      "value": "\"BAM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1064,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1076,
+      "length": 5,
+      "value": "\"BBD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1099,
+      "length": 2,
+      "value": "52"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1109,
+      "length": 5,
+      "value": "\"BBD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1127,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1139,
+      "length": 5,
+      "value": "\"BDT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1162,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1172,
+      "length": 5,
+      "value": "\"BDT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1190,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1202,
+      "length": 5,
+      "value": "\"BGN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1225,
+      "length": 3,
+      "value": "975"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1236,
+      "length": 5,
+      "value": "\"BGN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1254,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1266,
+      "length": 5,
+      "value": "\"BHD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1289,
+      "length": 2,
+      "value": "48"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1299,
+      "length": 5,
+      "value": "\"BHD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1317,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1329,
+      "length": 5,
+      "value": "\"BIF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1352,
+      "length": 3,
+      "value": "108"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1363,
+      "length": 5,
+      "value": "\"BIF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1381,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1393,
+      "length": 5,
+      "value": "\"BMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1416,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1426,
+      "length": 5,
+      "value": "\"BMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1444,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1456,
+      "length": 5,
+      "value": "\"BOB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1479,
+      "length": 2,
+      "value": "68"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1489,
+      "length": 5,
+      "value": "\"BOB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1507,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1519,
+      "length": 5,
+      "value": "\"BRL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1542,
+      "length": 3,
+      "value": "986"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1553,
+      "length": 5,
+      "value": "\"BRL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1571,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1583,
+      "length": 5,
+      "value": "\"BSD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1606,
+      "length": 2,
+      "value": "44"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1616,
+      "length": 5,
+      "value": "\"BSD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1634,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1646,
+      "length": 5,
+      "value": "\"BWP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1669,
+      "length": 2,
+      "value": "72"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1679,
+      "length": 5,
+      "value": "\"BWP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1697,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1709,
+      "length": 5,
+      "value": "\"BYR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1732,
+      "length": 3,
+      "value": "974"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1743,
+      "length": 5,
+      "value": "\"BYR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1761,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1773,
+      "length": 5,
+      "value": "\"BZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1796,
+      "length": 2,
+      "value": "84"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1806,
+      "length": 5,
+      "value": "\"BZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1824,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1836,
+      "length": 5,
+      "value": "\"CAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1859,
+      "length": 3,
+      "value": "124"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1870,
+      "length": 5,
+      "value": "\"CAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1888,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1900,
+      "length": 5,
+      "value": "\"CDF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1923,
+      "length": 3,
+      "value": "976"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1934,
+      "length": 5,
+      "value": "\"CDF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1952,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1964,
+      "length": 5,
+      "value": "\"CHF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1987,
+      "length": 3,
+      "value": "756"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 1998,
+      "length": 5,
+      "value": "\"CHF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2016,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2028,
+      "length": 5,
+      "value": "\"CLP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2051,
+      "length": 3,
+      "value": "152"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2062,
+      "length": 5,
+      "value": "\"CLP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2080,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2092,
+      "length": 5,
+      "value": "\"CNY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2115,
+      "length": 3,
+      "value": "156"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2126,
+      "length": 5,
+      "value": "\"CNY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2144,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2156,
+      "length": 5,
+      "value": "\"COP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2179,
+      "length": 3,
+      "value": "170"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2190,
+      "length": 5,
+      "value": "\"COP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2208,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2220,
+      "length": 5,
+      "value": "\"CRC\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2243,
+      "length": 3,
+      "value": "188"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2254,
+      "length": 5,
+      "value": "\"CRC\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2272,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2284,
+      "length": 5,
+      "value": "\"CUP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2307,
+      "length": 3,
+      "value": "192"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2318,
+      "length": 5,
+      "value": "\"CUP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2336,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2348,
+      "length": 5,
+      "value": "\"CVE\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2371,
+      "length": 3,
+      "value": "132"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2382,
+      "length": 5,
+      "value": "\"CVE\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2400,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2412,
+      "length": 5,
+      "value": "\"CYP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2435,
+      "length": 3,
+      "value": "196"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2446,
+      "length": 5,
+      "value": "\"CYP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2464,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2476,
+      "length": 5,
+      "value": "\"CZK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2499,
+      "length": 3,
+      "value": "203"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2510,
+      "length": 5,
+      "value": "\"CZK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2528,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2540,
+      "length": 5,
+      "value": "\"DEM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2563,
+      "length": 3,
+      "value": "280"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2574,
+      "length": 5,
+      "value": "\"DEM\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2592,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2604,
+      "length": 5,
+      "value": "\"DJF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2627,
+      "length": 3,
+      "value": "262"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2638,
+      "length": 5,
+      "value": "\"DJF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2656,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2668,
+      "length": 5,
+      "value": "\"DKK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2691,
+      "length": 3,
+      "value": "208"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2702,
+      "length": 5,
+      "value": "\"DKK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2720,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2732,
+      "length": 5,
+      "value": "\"DOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2755,
+      "length": 3,
+      "value": "214"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2766,
+      "length": 5,
+      "value": "\"DOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2784,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2796,
+      "length": 5,
+      "value": "\"DZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2819,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2829,
+      "length": 5,
+      "value": "\"DZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2847,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2859,
+      "length": 5,
+      "value": "\"ECS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2882,
+      "length": 3,
+      "value": "218"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2893,
+      "length": 5,
+      "value": "\"ECS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2911,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2923,
+      "length": 5,
+      "value": "\"EGP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2946,
+      "length": 3,
+      "value": "818"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2957,
+      "length": 5,
+      "value": "\"EGP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2975,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 2987,
+      "length": 5,
+      "value": "\"ERN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3010,
+      "length": 3,
+      "value": "232"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3021,
+      "length": 5,
+      "value": "\"ERN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3039,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3051,
+      "length": 5,
+      "value": "\"ETB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3074,
+      "length": 3,
+      "value": "230"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3085,
+      "length": 5,
+      "value": "\"ETB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3103,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3115,
+      "length": 5,
+      "value": "\"EUR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3138,
+      "length": 3,
+      "value": "978"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3149,
+      "length": 5,
+      "value": "\"EUR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3167,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3179,
+      "length": 5,
+      "value": "\"FJD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3202,
+      "length": 3,
+      "value": "242"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3213,
+      "length": 5,
+      "value": "\"FJD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3231,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3243,
+      "length": 5,
+      "value": "\"FKP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3266,
+      "length": 3,
+      "value": "238"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3277,
+      "length": 5,
+      "value": "\"FKP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3295,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3307,
+      "length": 5,
+      "value": "\"FRF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3330,
+      "length": 3,
+      "value": "250"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3341,
+      "length": 5,
+      "value": "\"FRF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3359,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3371,
+      "length": 5,
+      "value": "\"GBP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3394,
+      "length": 3,
+      "value": "826"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3405,
+      "length": 5,
+      "value": "\"GBP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3423,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3435,
+      "length": 5,
+      "value": "\"GEL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3458,
+      "length": 3,
+      "value": "981"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3469,
+      "length": 5,
+      "value": "\"GEL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3487,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3499,
+      "length": 5,
+      "value": "\"GHS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3522,
+      "length": 3,
+      "value": "936"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3533,
+      "length": 5,
+      "value": "\"GHS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3551,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3563,
+      "length": 5,
+      "value": "\"GIP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3586,
+      "length": 3,
+      "value": "292"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3597,
+      "length": 5,
+      "value": "\"GIP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3615,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3627,
+      "length": 5,
+      "value": "\"GMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3650,
+      "length": 3,
+      "value": "270"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3661,
+      "length": 5,
+      "value": "\"GMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3679,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3691,
+      "length": 5,
+      "value": "\"GNF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3714,
+      "length": 3,
+      "value": "324"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3725,
+      "length": 5,
+      "value": "\"GNF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3743,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3755,
+      "length": 5,
+      "value": "\"GTQ\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3778,
+      "length": 3,
+      "value": "320"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3789,
+      "length": 5,
+      "value": "\"GTQ\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3807,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3819,
+      "length": 5,
+      "value": "\"GWP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3842,
+      "length": 3,
+      "value": "624"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3853,
+      "length": 5,
+      "value": "\"GWP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3871,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3883,
+      "length": 5,
+      "value": "\"GYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3906,
+      "length": 3,
+      "value": "328"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3917,
+      "length": 5,
+      "value": "\"GYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3935,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3947,
+      "length": 5,
+      "value": "\"HKD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3970,
+      "length": 3,
+      "value": "344"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 3981,
+      "length": 5,
+      "value": "\"HKD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3999,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4011,
+      "length": 5,
+      "value": "\"HNL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4034,
+      "length": 3,
+      "value": "340"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4045,
+      "length": 5,
+      "value": "\"HNL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4063,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4075,
+      "length": 5,
+      "value": "\"HRK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4098,
+      "length": 3,
+      "value": "191"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4109,
+      "length": 5,
+      "value": "\"HRK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4127,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4139,
+      "length": 5,
+      "value": "\"HTG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4162,
+      "length": 3,
+      "value": "332"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4173,
+      "length": 5,
+      "value": "\"HTG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4191,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4203,
+      "length": 5,
+      "value": "\"HUF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4226,
+      "length": 3,
+      "value": "348"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4237,
+      "length": 5,
+      "value": "\"HUF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4255,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4267,
+      "length": 5,
+      "value": "\"IDR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4290,
+      "length": 3,
+      "value": "360"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4301,
+      "length": 5,
+      "value": "\"IDR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4319,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4331,
+      "length": 5,
+      "value": "\"ILS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4354,
+      "length": 3,
+      "value": "376"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4365,
+      "length": 5,
+      "value": "\"ILS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4383,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4395,
+      "length": 5,
+      "value": "\"IQD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4418,
+      "length": 3,
+      "value": "368"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4429,
+      "length": 5,
+      "value": "\"IQD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4447,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4459,
+      "length": 5,
+      "value": "\"IRR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4482,
+      "length": 3,
+      "value": "364"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4493,
+      "length": 5,
+      "value": "\"IRR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4511,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4523,
+      "length": 5,
+      "value": "\"ISK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4546,
+      "length": 3,
+      "value": "352"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4557,
+      "length": 5,
+      "value": "\"ISK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4575,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4587,
+      "length": 5,
+      "value": "\"JMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4610,
+      "length": 3,
+      "value": "388"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4621,
+      "length": 5,
+      "value": "\"JMD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4639,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4651,
+      "length": 5,
+      "value": "\"JOD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4674,
+      "length": 3,
+      "value": "400"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4685,
+      "length": 5,
+      "value": "\"JOD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4703,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4715,
+      "length": 5,
+      "value": "\"JPY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4738,
+      "length": 3,
+      "value": "392"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4749,
+      "length": 5,
+      "value": "\"JPY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4767,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4779,
+      "length": 5,
+      "value": "\"KES\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4802,
+      "length": 3,
+      "value": "404"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4813,
+      "length": 5,
+      "value": "\"KES\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4831,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4843,
+      "length": 5,
+      "value": "\"KGS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4866,
+      "length": 3,
+      "value": "417"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4877,
+      "length": 5,
+      "value": "\"KGS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4895,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4907,
+      "length": 5,
+      "value": "\"KHR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4930,
+      "length": 3,
+      "value": "116"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4941,
+      "length": 5,
+      "value": "\"KHR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4959,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 4971,
+      "length": 5,
+      "value": "\"KMF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4994,
+      "length": 3,
+      "value": "174"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5005,
+      "length": 5,
+      "value": "\"KMF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5023,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5035,
+      "length": 5,
+      "value": "\"KPW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5058,
+      "length": 3,
+      "value": "408"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5069,
+      "length": 5,
+      "value": "\"KPW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5087,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5099,
+      "length": 5,
+      "value": "\"KRW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5122,
+      "length": 3,
+      "value": "410"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5133,
+      "length": 5,
+      "value": "\"KRW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5151,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5163,
+      "length": 5,
+      "value": "\"KWD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5186,
+      "length": 3,
+      "value": "414"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5197,
+      "length": 5,
+      "value": "\"KWD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5215,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5227,
+      "length": 5,
+      "value": "\"KYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5250,
+      "length": 3,
+      "value": "136"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5261,
+      "length": 5,
+      "value": "\"KYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5279,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5291,
+      "length": 5,
+      "value": "\"KZT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5314,
+      "length": 3,
+      "value": "398"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5325,
+      "length": 5,
+      "value": "\"KZT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5343,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5355,
+      "length": 5,
+      "value": "\"LAK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5378,
+      "length": 3,
+      "value": "418"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5389,
+      "length": 5,
+      "value": "\"LAK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5407,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5419,
+      "length": 5,
+      "value": "\"LBP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5442,
+      "length": 3,
+      "value": "422"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5453,
+      "length": 5,
+      "value": "\"LBP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5471,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5483,
+      "length": 5,
+      "value": "\"LKR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5506,
+      "length": 3,
+      "value": "144"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5517,
+      "length": 5,
+      "value": "\"LKR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5535,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5547,
+      "length": 5,
+      "value": "\"LRD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5570,
+      "length": 3,
+      "value": "430"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5581,
+      "length": 5,
+      "value": "\"LRD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5599,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5611,
+      "length": 5,
+      "value": "\"LYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5634,
+      "length": 3,
+      "value": "434"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5645,
+      "length": 5,
+      "value": "\"LYD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5663,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5675,
+      "length": 5,
+      "value": "\"MAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5698,
+      "length": 3,
+      "value": "504"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5709,
+      "length": 5,
+      "value": "\"MAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5727,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5739,
+      "length": 5,
+      "value": "\"MDL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5762,
+      "length": 3,
+      "value": "498"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5773,
+      "length": 5,
+      "value": "\"MDL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5791,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5803,
+      "length": 5,
+      "value": "\"MGA\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5826,
+      "length": 3,
+      "value": "969"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5837,
+      "length": 5,
+      "value": "\"MGA\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5855,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5867,
+      "length": 5,
+      "value": "\"MKD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5890,
+      "length": 3,
+      "value": "807"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5901,
+      "length": 5,
+      "value": "\"MKD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5919,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5931,
+      "length": 5,
+      "value": "\"MMK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5954,
+      "length": 3,
+      "value": "104"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5965,
+      "length": 5,
+      "value": "\"MMK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5983,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 5995,
+      "length": 5,
+      "value": "\"MNT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6018,
+      "length": 3,
+      "value": "496"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6029,
+      "length": 5,
+      "value": "\"MNT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6047,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6059,
+      "length": 5,
+      "value": "\"MOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6082,
+      "length": 3,
+      "value": "446"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6093,
+      "length": 5,
+      "value": "\"MOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6111,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6123,
+      "length": 5,
+      "value": "\"MRO\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6146,
+      "length": 3,
+      "value": "478"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6157,
+      "length": 5,
+      "value": "\"MRO\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6175,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6187,
+      "length": 5,
+      "value": "\"MUR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6210,
+      "length": 3,
+      "value": "480"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6221,
+      "length": 5,
+      "value": "\"MUR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6239,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6251,
+      "length": 5,
+      "value": "\"MVR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6274,
+      "length": 3,
+      "value": "462"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6285,
+      "length": 5,
+      "value": "\"MVR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6303,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6315,
+      "length": 5,
+      "value": "\"MWK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6338,
+      "length": 3,
+      "value": "454"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6349,
+      "length": 5,
+      "value": "\"MWK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6367,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6379,
+      "length": 5,
+      "value": "\"MXN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6402,
+      "length": 3,
+      "value": "484"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6413,
+      "length": 5,
+      "value": "\"MXN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6431,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6443,
+      "length": 5,
+      "value": "\"MYR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6466,
+      "length": 3,
+      "value": "458"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6477,
+      "length": 5,
+      "value": "\"MYR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6495,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6507,
+      "length": 5,
+      "value": "\"MZN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6530,
+      "length": 3,
+      "value": "943"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6541,
+      "length": 5,
+      "value": "\"MZN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6559,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6571,
+      "length": 5,
+      "value": "\"NAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6594,
+      "length": 3,
+      "value": "516"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6605,
+      "length": 5,
+      "value": "\"NAD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6623,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6635,
+      "length": 5,
+      "value": "\"NGN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6658,
+      "length": 3,
+      "value": "566"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6669,
+      "length": 5,
+      "value": "\"NGN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6687,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6699,
+      "length": 5,
+      "value": "\"NIO\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6722,
+      "length": 3,
+      "value": "558"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6733,
+      "length": 5,
+      "value": "\"NIO\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6751,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6763,
+      "length": 5,
+      "value": "\"NOK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6786,
+      "length": 3,
+      "value": "578"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6797,
+      "length": 5,
+      "value": "\"NOK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6815,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6827,
+      "length": 5,
+      "value": "\"NPR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6850,
+      "length": 3,
+      "value": "524"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6861,
+      "length": 5,
+      "value": "\"NPR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6879,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6891,
+      "length": 5,
+      "value": "\"NZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6914,
+      "length": 3,
+      "value": "554"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6925,
+      "length": 5,
+      "value": "\"NZD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6943,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6955,
+      "length": 5,
+      "value": "\"OMR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6978,
+      "length": 3,
+      "value": "512"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 6989,
+      "length": 5,
+      "value": "\"OMR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7007,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7019,
+      "length": 5,
+      "value": "\"PAB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7042,
+      "length": 3,
+      "value": "590"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7053,
+      "length": 5,
+      "value": "\"PAB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7071,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7083,
+      "length": 5,
+      "value": "\"PEN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7106,
+      "length": 3,
+      "value": "604"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7117,
+      "length": 5,
+      "value": "\"PEN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7135,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7147,
+      "length": 5,
+      "value": "\"PGK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7170,
+      "length": 3,
+      "value": "598"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7181,
+      "length": 5,
+      "value": "\"PGK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7199,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7211,
+      "length": 5,
+      "value": "\"PKR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7234,
+      "length": 3,
+      "value": "586"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7245,
+      "length": 5,
+      "value": "\"PKR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7263,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7275,
+      "length": 5,
+      "value": "\"PLN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7298,
+      "length": 3,
+      "value": "985"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7309,
+      "length": 5,
+      "value": "\"PLN\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7327,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7339,
+      "length": 5,
+      "value": "\"PYG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7362,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7373,
+      "length": 5,
+      "value": "\"PYG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7391,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7403,
+      "length": 5,
+      "value": "\"QAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7426,
+      "length": 3,
+      "value": "634"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7437,
+      "length": 5,
+      "value": "\"QAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7455,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7467,
+      "length": 5,
+      "value": "\"RON\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7490,
+      "length": 3,
+      "value": "946"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7501,
+      "length": 5,
+      "value": "\"RON\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7519,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7531,
+      "length": 5,
+      "value": "\"RSD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7554,
+      "length": 3,
+      "value": "941"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7565,
+      "length": 5,
+      "value": "\"RSD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7583,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7595,
+      "length": 5,
+      "value": "\"RUB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7618,
+      "length": 3,
+      "value": "643"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7629,
+      "length": 5,
+      "value": "\"RUB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7647,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7659,
+      "length": 5,
+      "value": "\"RWF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7682,
+      "length": 3,
+      "value": "646"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7693,
+      "length": 5,
+      "value": "\"RWF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7711,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7723,
+      "length": 5,
+      "value": "\"SAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7746,
+      "length": 3,
+      "value": "682"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7757,
+      "length": 5,
+      "value": "\"SAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7775,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7787,
+      "length": 5,
+      "value": "\"SBD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7810,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7820,
+      "length": 5,
+      "value": "\"SBD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7838,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7850,
+      "length": 5,
+      "value": "\"SCR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7873,
+      "length": 3,
+      "value": "690"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7884,
+      "length": 5,
+      "value": "\"SCR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7902,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7914,
+      "length": 5,
+      "value": "\"SDD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7937,
+      "length": 3,
+      "value": "736"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7948,
+      "length": 5,
+      "value": "\"SDD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7966,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 7978,
+      "length": 5,
+      "value": "\"SDG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8001,
+      "length": 3,
+      "value": "938"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8012,
+      "length": 5,
+      "value": "\"SDG\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8030,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8042,
+      "length": 5,
+      "value": "\"SEK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8065,
+      "length": 3,
+      "value": "752"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8076,
+      "length": 5,
+      "value": "\"SEK\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8094,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8106,
+      "length": 5,
+      "value": "\"SGD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8129,
+      "length": 3,
+      "value": "702"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8140,
+      "length": 5,
+      "value": "\"SGD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8158,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8170,
+      "length": 5,
+      "value": "\"SHP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8193,
+      "length": 3,
+      "value": "654"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8204,
+      "length": 5,
+      "value": "\"SHP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8222,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8234,
+      "length": 5,
+      "value": "\"SLE\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8257,
+      "length": 3,
+      "value": "925"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8268,
+      "length": 5,
+      "value": "\"SLE\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8286,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8298,
+      "length": 5,
+      "value": "\"SLL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8321,
+      "length": 3,
+      "value": "694"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8332,
+      "length": 5,
+      "value": "\"SLL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8350,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8362,
+      "length": 5,
+      "value": "\"SOS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8385,
+      "length": 3,
+      "value": "706"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8396,
+      "length": 5,
+      "value": "\"SOS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8414,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8426,
+      "length": 5,
+      "value": "\"SRD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8449,
+      "length": 3,
+      "value": "968"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8460,
+      "length": 5,
+      "value": "\"SRD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8478,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8490,
+      "length": 5,
+      "value": "\"STD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8513,
+      "length": 3,
+      "value": "678"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8524,
+      "length": 5,
+      "value": "\"STD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8542,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8554,
+      "length": 5,
+      "value": "\"SYP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8577,
+      "length": 3,
+      "value": "760"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8588,
+      "length": 5,
+      "value": "\"SYP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8606,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8618,
+      "length": 5,
+      "value": "\"SZL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8641,
+      "length": 3,
+      "value": "748"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8652,
+      "length": 5,
+      "value": "\"SZL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8670,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8682,
+      "length": 5,
+      "value": "\"THB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8705,
+      "length": 3,
+      "value": "764"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8716,
+      "length": 5,
+      "value": "\"THB\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8734,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8746,
+      "length": 5,
+      "value": "\"TJS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8769,
+      "length": 3,
+      "value": "972"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8780,
+      "length": 5,
+      "value": "\"TJS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8798,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8810,
+      "length": 5,
+      "value": "\"TMT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8833,
+      "length": 3,
+      "value": "934"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8844,
+      "length": 5,
+      "value": "\"TMT\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8862,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8874,
+      "length": 5,
+      "value": "\"TND\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8897,
+      "length": 3,
+      "value": "788"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8908,
+      "length": 5,
+      "value": "\"TND\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8926,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8938,
+      "length": 5,
+      "value": "\"TOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8961,
+      "length": 3,
+      "value": "776"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 8972,
+      "length": 5,
+      "value": "\"TOP\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8990,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9002,
+      "length": 5,
+      "value": "\"TRY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9025,
+      "length": 3,
+      "value": "949"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9036,
+      "length": 5,
+      "value": "\"TRY\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9054,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9066,
+      "length": 5,
+      "value": "\"TTD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9089,
+      "length": 3,
+      "value": "780"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9100,
+      "length": 5,
+      "value": "\"TTD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9118,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9130,
+      "length": 5,
+      "value": "\"TWD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9153,
+      "length": 3,
+      "value": "901"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9164,
+      "length": 5,
+      "value": "\"TWD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9182,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9194,
+      "length": 5,
+      "value": "\"TZS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9217,
+      "length": 3,
+      "value": "834"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9228,
+      "length": 5,
+      "value": "\"TZS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9246,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9258,
+      "length": 5,
+      "value": "\"UAH\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9281,
+      "length": 3,
+      "value": "980"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9292,
+      "length": 5,
+      "value": "\"UAH\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9310,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9322,
+      "length": 5,
+      "value": "\"UGX\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9345,
+      "length": 3,
+      "value": "800"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9356,
+      "length": 5,
+      "value": "\"UGX\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9374,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9386,
+      "length": 5,
+      "value": "\"USD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9409,
+      "length": 3,
+      "value": "840"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9420,
+      "length": 5,
+      "value": "\"USD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9438,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9450,
+      "length": 5,
+      "value": "\"UYU\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9473,
+      "length": 3,
+      "value": "858"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9484,
+      "length": 5,
+      "value": "\"UYU\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9502,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9514,
+      "length": 5,
+      "value": "\"UZS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9537,
+      "length": 3,
+      "value": "860"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9548,
+      "length": 5,
+      "value": "\"UZS\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9566,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9578,
+      "length": 5,
+      "value": "\"VEF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9601,
+      "length": 3,
+      "value": "937"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9612,
+      "length": 5,
+      "value": "\"VEF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9630,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9642,
+      "length": 5,
+      "value": "\"VND\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9665,
+      "length": 3,
+      "value": "704"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9676,
+      "length": 5,
+      "value": "\"VND\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9694,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9706,
+      "length": 5,
+      "value": "\"VUV\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9729,
+      "length": 3,
+      "value": "548"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9740,
+      "length": 5,
+      "value": "\"VUV\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9758,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9770,
+      "length": 5,
+      "value": "\"WST\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9793,
+      "length": 3,
+      "value": "882"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9804,
+      "length": 5,
+      "value": "\"WST\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9822,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9834,
+      "length": 5,
+      "value": "\"XAF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9857,
+      "length": 3,
+      "value": "950"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9868,
+      "length": 5,
+      "value": "\"XAF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9886,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9898,
+      "length": 5,
+      "value": "\"XCD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9921,
+      "length": 3,
+      "value": "951"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9932,
+      "length": 5,
+      "value": "\"XCD\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9950,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9962,
+      "length": 5,
+      "value": "\"XEU\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9985,
+      "length": 3,
+      "value": "954"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 9996,
+      "length": 5,
+      "value": "\"XEU\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10014,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10026,
+      "length": 5,
+      "value": "\"XOF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10049,
+      "length": 3,
+      "value": "952"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10060,
+      "length": 5,
+      "value": "\"XOF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10078,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10090,
+      "length": 5,
+      "value": "\"XPF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10113,
+      "length": 3,
+      "value": "953"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10124,
+      "length": 5,
+      "value": "\"XPF\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10142,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10154,
+      "length": 5,
+      "value": "\"YER\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10177,
+      "length": 3,
+      "value": "886"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10188,
+      "length": 5,
+      "value": "\"YER\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10206,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10218,
+      "length": 5,
+      "value": "\"ZAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10241,
+      "length": 3,
+      "value": "710"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10252,
+      "length": 5,
+      "value": "\"ZAR\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10270,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10282,
+      "length": 5,
+      "value": "\"ZMW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10305,
+      "length": 3,
+      "value": "967"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10316,
+      "length": 5,
+      "value": "\"ZMW\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10334,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10346,
+      "length": 5,
+      "value": "\"ZWL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10369,
+      "length": 3,
+      "value": "932"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "StringLiteral",
+      "offset": 10380,
+      "length": 5,
+      "value": "\"ZWL\""
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/Currency.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10398,
       "length": 1,
       "value": "2"
     },

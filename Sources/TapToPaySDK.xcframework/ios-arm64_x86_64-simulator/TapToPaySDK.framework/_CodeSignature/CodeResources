@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		b2AYt0VL4GonI4g+FbUzrHNAZww=
+		9hUvHYNdwILedQ+/1wET57OFEog=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		UZTkBjK3ef9USZZI1tz9mOV4sAw=
+		DrKy49qxEIv8GQZZvH/Mp1JtGpg=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6+2FYFo4KGydHK7vHl6nLv2gGsE=
+		IX94AnJ8Vvn9wxWQxYYEyE1GRa0=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		UZTkBjK3ef9USZZI1tz9mOV4sAw=
+		DrKy49qxEIv8GQZZvH/Mp1JtGpg=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n4MkMx46stwyo4A489EPgHYTZJU=
+		mewzrhGUt3+EE+EHdyOG2JZtNCs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WW22SL1songNF8O1HLWnromozyjB6PKIRllQge611LI=
+			qPQwXHzwfxe86rj5eObl3IcHpGNqwj8qe6Ob17Kgv98=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CTLLLp5EYlXwpfMwtrQE+TLpqOLxvemoT40InBBUwRg=
+			dgq0b4HCzboYmVN5zloJaXiJyTDsF9uVkkCcBDpWmLU=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WW22SL1songNF8O1HLWnromozyjB6PKIRllQge611LI=
+			qPQwXHzwfxe86rj5eObl3IcHpGNqwj8qe6Ob17Kgv98=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ybYYNW7tGmjHd3PIokJGMo4IaD3ErzMvmYVLxWTLt98=
+			ISpoH7Z+bYuIZ2a6qwK8bFjfq3qrES7SruH3n2tQ4tk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
