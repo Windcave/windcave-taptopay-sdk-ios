@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
-// swift-module-flags: -target arm64-apple-ios17.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TapToPaySDK
+// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
+// swift-module-flags: -target arm64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TapToPaySDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import Combine
 import Foundation
 import ProximityReader
@@ -22,37 +23,23 @@ public enum TransactionType : Swift.String {
   }
 }
 public protocol Connection {
-  #if compiler(>=5.3) && $AsyncAwait
   func getToken(body: TapToPaySDK.GetTokenRequest) async throws -> TapToPaySDK.GetTokenResponse
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func termsAccepted(body: TapToPaySDK.TCAcceptNotificationRequest) async throws
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func createTransaction(body: TapToPaySDK.CreateTransactionRequest) async throws -> TapToPaySDK.TransactionResponse
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func queryTransaction(txnId: Swift.String) async throws -> TapToPaySDK.TransactionResponse
-  #endif
 }
 public protocol RequestProvider {
-  #if compiler(>=5.3) && $AsyncAwait
   func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
-  #endif
 }
 public class DirectRequestProvider : TapToPaySDK.RequestProvider {
   public init(environment: TapToPaySDK.WindcaveEnvironment, apiUsername: Swift.String, apiKey: Swift.String)
-  #if compiler(>=5.3) && $AsyncAwait
   public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
-  #endif
   @objc deinit
 }
 public class ProxyRequestProvider : TapToPaySDK.RequestProvider {
   public init(baseUrl: Swift.String)
   public func setHeader(headerName: Swift.String, value: Swift.String)
-  #if compiler(>=5.3) && $AsyncAwait
   public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
-  #endif
   @objc deinit
 }
 public protocol TapToPayUIDelegate {
@@ -89,6 +76,7 @@ public enum WindcaveTapToPayStatus {
   }
   @objc deinit
 }
+@available(iOS 16.7, *)
 public class WindcaveTapToPay {
   public var status: Combine.CurrentValueSubject<TapToPaySDK.TapToPayStatus, Swift.Never> {
     get
@@ -97,26 +85,14 @@ public class WindcaveTapToPay {
     get
   }
   public init(connection: (any TapToPaySDK.Connection)?, requestProvider: (any TapToPaySDK.RequestProvider)?, uiDelegate: (any TapToPaySDK.TapToPayUIDelegate)?, logger: (any TapToPaySDK.TapToPayLogDelegate)?, dataDelegate: (any TapToPaySDK.TapToPayDataDelegate)?) throws
-  #if compiler(>=5.3) && $AsyncAwait
   public func loadPendingTransactionId() async throws
-  #endif
   public func hasOutstandingTransaction() -> Swift.Bool
   public func getOutstandingTransactionId() -> Swift.String?
-  #if compiler(>=5.3) && $AsyncAwait
   public func restoreTransaction() async throws -> any TapToPaySDK.WindcaveResponse
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func clearOutstandingTransaction() async throws
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func prepare(forceNewToken: Swift.Bool = false) async throws
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func isAvailable() async -> Swift.Bool
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func doTransaction(reference: Swift.String, txnType: TapToPaySDK.TransactionType, amount: TapToPaySDK.Amount, notificationUrl: Swift.String?, customerEmail: Swift.String? = nil, callback: TapToPaySDK.TransactionResultCallback?) async throws -> any TapToPaySDK.WindcaveResponse
-  #endif
   public static func getSDKVersion() -> Swift.String
   @objc deinit
 }
@@ -184,6 +160,21 @@ public struct TransactionAcquirerDetails : Swift.Codable {
   public let name: Swift.String?
   public let mid: Swift.String?
   public let tid: Swift.String?
+  public let reco: Swift.String?
+  public let responsetext: Swift.String?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TransactionTapToPayAppleDetails : Swift.Codable {
+  public let cardReaderId: Swift.String?
+  public let cardReaderTransactionId: Swift.String?
+  public let pinToken: Swift.String?
+  public let isPinBypass: Swift.Bool?
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TransactionTapToPayDetails : Swift.Codable {
+  public let apple: TapToPaySDK.TransactionTapToPayAppleDetails?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -198,6 +189,7 @@ public struct TransactionResponse : TapToPaySDK.WindcaveResponse {
   public let card: TapToPaySDK.TransactionCardDetails?
   public let amountSurcharge: Swift.String?
   public let acquirer: TapToPaySDK.TransactionAcquirerDetails?
+  public let tapToPay: TapToPaySDK.TransactionTapToPayDetails?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -216,10 +208,11 @@ public struct WindcaveProgressBar : SwiftUI.View {
     get
     set
   }
-  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUI.View {
     get
   }
   public init(lineWidth: Swift.Float)
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19WindcaveProgressBarV4bodyQrvp", 0) __
 }
 
@@ -248,10 +241,11 @@ public enum WindcaveLogType {
 public protocol TapToPayLogDelegate {
   func log(_ logType: TapToPaySDK.WindcaveLogType, _ message: Swift.String)
 }
-@_Concurrency.MainActor(unsafe) public struct PrepareProgressView : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+@_Concurrency.MainActor @preconcurrency public struct PrepareProgressView : SwiftUI.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUI.View {
     get
   }
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19PrepareProgressViewV4bodyQrvp", 0) __
 }
 
@@ -286,26 +280,14 @@ public enum WindcaveEnvironment : Swift.String {
   }
 }
 public protocol TapToPayDataDelegate {
-  #if compiler(>=5.3) && $AsyncAwait
   func getValue(fieldName: Swift.String) async throws -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func setValue(fieldName: Swift.String, value: Swift.String?) async throws
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   func eraseValue(fieldName: Swift.String) async throws
-  #endif
 }
 @_hasMissingDesignatedInitializers public class TapToPayUserDefaultsDataHandler : TapToPaySDK.TapToPayDataDelegate {
-  #if compiler(>=5.3) && $AsyncAwait
   public func getValue(fieldName: Swift.String) async throws -> Swift.String?
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func setValue(fieldName: Swift.String, value: Swift.String?) async throws
-  #endif
-  #if compiler(>=5.3) && $AsyncAwait
   public func eraseValue(fieldName: Swift.String) async throws
-  #endif
   @objc deinit
 }
 extension TapToPaySDK.TransactionType : Swift.Equatable {}
@@ -315,6 +297,7 @@ extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Equatable {}
 extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Hashable {}
 extension TapToPaySDK.WindcaveLogType : Swift.Equatable {}
 extension TapToPaySDK.WindcaveLogType : Swift.Hashable {}
+extension TapToPaySDK.PrepareProgressView : Swift.Sendable {}
 extension TapToPaySDK.WindcaveEnvironment : Swift.Equatable {}
 extension TapToPaySDK.WindcaveEnvironment : Swift.Hashable {}
 extension TapToPaySDK.WindcaveEnvironment : Swift.RawRepresentable {}
