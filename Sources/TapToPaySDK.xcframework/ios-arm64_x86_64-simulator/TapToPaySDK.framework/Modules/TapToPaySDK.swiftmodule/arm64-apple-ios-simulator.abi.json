@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "TapToPaySDK",
+    "printedName": "TapToPaySDK",
     "children": [
       {
         "kind": "Import",
@@ -264,6 +264,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -450,6 +464,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -515,6 +545,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -609,6 +655,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "RequestProvider",
@@ -733,6 +793,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "RequestProvider",
             "printedName": "RequestProvider",
             "usr": "s:11TapToPaySDK15RequestProviderP",
@@ -823,6 +897,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -1249,6 +1339,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -1546,7 +1650,23 @@
           "AccessControl",
           "RawDocComment"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "TypeDecl",
@@ -2051,9 +2171,27 @@
         "usr": "s:11TapToPaySDK08WindcaveabC0C",
         "mangledName": "$s11TapToPaySDK08WindcaveabC0C",
         "moduleName": "TapToPaySDK",
+        "intro_iOS": "16.7",
         "declAttributes": [
           "AccessControl",
+          "Available",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -2132,6 +2270,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -2216,6 +2368,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -2296,6 +2462,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -2380,6 +2560,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -2459,6 +2653,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -2543,6 +2751,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -2572,6 +2794,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
           {
             "kind": "Conformance",
             "name": "Encodable",
@@ -2653,6 +2889,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "WindcaveResponse",
@@ -2742,6 +2992,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "WindcaveResponse",
@@ -3011,6 +3275,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -3289,6 +3567,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "WindcaveResponse",
@@ -3868,6 +4160,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -4068,6 +4374,126 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "reco",
+            "printedName": "reco",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK26TransactionAcquirerDetailsV4recoSSSgvp",
+            "mangledName": "$s11TapToPaySDK26TransactionAcquirerDetailsV4recoSSSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK26TransactionAcquirerDetailsV4recoSSSgvg",
+                "mangledName": "$s11TapToPaySDK26TransactionAcquirerDetailsV4recoSSSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "responsetext",
+            "printedName": "responsetext",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK26TransactionAcquirerDetailsV12responsetextSSSgvp",
+            "mangledName": "$s11TapToPaySDK26TransactionAcquirerDetailsV12responsetextSSSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK26TransactionAcquirerDetailsV12responsetextSSSgvg",
+                "mangledName": "$s11TapToPaySDK26TransactionAcquirerDetailsV12responsetextSSSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -4128,6 +4554,511 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TransactionTapToPayAppleDetails",
+        "printedName": "TransactionTapToPayAppleDetails",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "cardReaderId",
+            "printedName": "cardReaderId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV12cardReaderIdSSSgvp",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV12cardReaderIdSSSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV12cardReaderIdSSSgvg",
+                "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV12cardReaderIdSSSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cardReaderTransactionId",
+            "printedName": "cardReaderTransactionId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV010cardReaderE2IdSSSgvp",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV010cardReaderE2IdSSSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV010cardReaderE2IdSSSgvg",
+                "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV010cardReaderE2IdSSSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "pinToken",
+            "printedName": "pinToken",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV8pinTokenSSSgvp",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV8pinTokenSSSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV8pinTokenSSSgvg",
+                "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV8pinTokenSSSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "isPinBypass",
+            "printedName": "isPinBypass",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV11isPinBypassSbSgvp",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV11isPinBypassSbSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Bool?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Bool",
+                        "printedName": "Swift.Bool",
+                        "usr": "s:Sb"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV11isPinBypassSbSgvg",
+                "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV11isPinBypassSbSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TransactionTapToPayAppleDetails",
+                "printedName": "TapToPaySDK.TransactionTapToPayAppleDetails",
+                "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "TapToPaySDK",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV6encode2toys7Encoder_p_tKF",
+            "moduleName": "TapToPaySDK",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV",
+        "mangledName": "$s11TapToPaySDK011TransactionabC12AppleDetailsV",
+        "moduleName": "TapToPaySDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TransactionTapToPayDetails",
+        "printedName": "TransactionTapToPayDetails",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "apple",
+            "printedName": "apple",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TapToPaySDK.TransactionTapToPayAppleDetails?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TransactionTapToPayAppleDetails",
+                    "printedName": "TapToPaySDK.TransactionTapToPayAppleDetails",
+                    "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK011TransactionabC7DetailsV5appleAA0eabc5AppleF0VSgvp",
+            "mangledName": "$s11TapToPaySDK011TransactionabC7DetailsV5appleAA0eabc5AppleF0VSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TapToPaySDK.TransactionTapToPayAppleDetails?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TransactionTapToPayAppleDetails",
+                        "printedName": "TapToPaySDK.TransactionTapToPayAppleDetails",
+                        "usr": "s:11TapToPaySDK011TransactionabC12AppleDetailsV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK011TransactionabC7DetailsV5appleAA0eabc5AppleF0VSgvg",
+                "mangledName": "$s11TapToPaySDK011TransactionabC7DetailsV5appleAA0eabc5AppleF0VSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TransactionTapToPayDetails",
+                "printedName": "TapToPaySDK.TransactionTapToPayDetails",
+                "usr": "s:11TapToPaySDK011TransactionabC7DetailsV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11TapToPaySDK011TransactionabC7DetailsV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s11TapToPaySDK011TransactionabC7DetailsV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "TapToPaySDK",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TapToPaySDK011TransactionabC7DetailsV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s11TapToPaySDK011TransactionabC7DetailsV6encode2toys7Encoder_p_tKF",
+            "moduleName": "TapToPaySDK",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11TapToPaySDK011TransactionabC7DetailsV",
+        "mangledName": "$s11TapToPaySDK011TransactionabC7DetailsV",
+        "moduleName": "TapToPaySDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -4760,6 +5691,67 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "tapToPay",
+            "printedName": "tapToPay",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TapToPaySDK.TransactionTapToPayDetails?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TransactionTapToPayDetails",
+                    "printedName": "TapToPaySDK.TransactionTapToPayDetails",
+                    "usr": "s:11TapToPaySDK011TransactionabC7DetailsV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK19TransactionResponseV03tapbC0AA0eabC7DetailsVSgvp",
+            "mangledName": "$s11TapToPaySDK19TransactionResponseV03tapbC0AA0eabC7DetailsVSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TapToPaySDK.TransactionTapToPayDetails?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TransactionTapToPayDetails",
+                        "printedName": "TapToPaySDK.TransactionTapToPayDetails",
+                        "usr": "s:11TapToPaySDK011TransactionabC7DetailsV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK19TransactionResponseV03tapbC0AA0eabC7DetailsVSgvg",
+                "mangledName": "$s11TapToPaySDK19TransactionResponseV03tapbC0AA0eabC7DetailsVSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -4820,6 +5812,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "WindcaveResponse",
@@ -5081,6 +6087,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Comparable",
             "printedName": "Comparable",
             "usr": "s:SL",
@@ -5215,6 +6235,7 @@
             "mangledName": "$s11TapToPaySDK19WindcaveProgressBarV4bodyQrvp",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -5283,6 +6304,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "View",
@@ -5492,6 +6527,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -5809,6 +6858,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -5869,6 +6932,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -5910,6 +6989,7 @@
             "mangledName": "$s11TapToPaySDK19PrepareProgressViewV4bodyQrvp",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -5947,11 +7027,26 @@
         "mangledName": "$s11TapToPaySDK19PrepareProgressViewV",
         "moduleName": "TapToPaySDK",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "View",
@@ -5980,6 +7075,13 @@
             ],
             "usr": "s:7SwiftUI4ViewP",
             "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -6678,6 +7780,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
@@ -6952,6 +8068,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -7137,6 +8267,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -7264,6 +8410,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "TapToPayDataDelegate",
             "printedName": "TapToPayDataDelegate",
             "usr": "s:11TapToPaySDK0abC12DataDelegateP",
@@ -7285,34 +8445,6 @@
     "json_format_version": 8
   },
   "ConstValues": [
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/TransactionType.swift",
-      "kind": "StringLiteral",
-      "offset": 272,
-      "length": 10,
-      "value": "\"purchase\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/TransactionType.swift",
-      "kind": "StringLiteral",
-      "offset": 508,
-      "length": 6,
-      "value": "\"auth\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/TransactionType.swift",
-      "kind": "StringLiteral",
-      "offset": 718,
-      "length": 10,
-      "value": "\"validate\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/TransactionType.swift",
-      "kind": "StringLiteral",
-      "offset": 769,
-      "length": 8,
-      "value": "\"refund\""
-    },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/TransactionType.swift",
       "kind": "StringLiteral",
@@ -7372,35 +8504,42 @@
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1437,
+      "offset": 1448,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 2250,
+      "offset": 2261,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10509,
+      "offset": 10544,
       "length": 31,
       "value": "\"0.0.0+rev.000000-taptopay.ios\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10782,
+      "offset": 10817,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24269,
+      "offset": 11868,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24995,
       "length": 5,
       "value": "false"
     },
@@ -11904,34 +13043,6 @@
       "offset": 1670,
       "length": 2,
       "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveEnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 352,
-      "length": 5,
-      "value": "\"sec\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveEnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 427,
-      "length": 5,
-      "value": "\"uat\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveEnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 565,
-      "length": 4,
-      "value": "\"qa\""
-    },
-    {
-      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveEnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 697,
-      "length": 5,
-      "value": "\"dev\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveEnvironment.swift",

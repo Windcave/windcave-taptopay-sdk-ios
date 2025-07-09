@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TapToPaySDK-Swift.h</key>
 		<data>
-		3e6kJmtUWZdPW1I+Cl5O67YQW8o=
+		dNiimgQy8zgUrj0NAjyOzDrb1/s=
 		</data>
 		<key>Headers/TapToPaySDK.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9hUvHYNdwILedQ+/1wET57OFEog=
+		7/p7/XjeMa80/ywEYyTKkHyig+0=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		DrKy49qxEIv8GQZZvH/Mp1JtGpg=
+		9ph7ejhmCs5v83jT5kse6buJZlg=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tSiAe+evYU7ZSXIHqlATqH2yUxU=
+		byVTFK6JHsNfUZbIGQTEnn23VGw=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		asrx9twb4H6rTN6YxG2YfeYH3XM=
+		4NHWbKvoAgW3Za/ZpQUbGSTvAq0=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tSiAe+evYU7ZSXIHqlATqH2yUxU=
+		byVTFK6JHsNfUZbIGQTEnn23VGw=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IX94AnJ8Vvn9wxWQxYYEyE1GRa0=
+		lAy9eEqOHg9B9dppzrZaCKh94zA=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		DrKy49qxEIv8GQZZvH/Mp1JtGpg=
+		9ph7ejhmCs5v83jT5kse6buJZlg=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jl1yJ7tDglNEuLFt0EiZuNF+kAs=
+		ddi/THasG64oOv0zupW7vc/5Eo8=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2E3UCs3khioZTTIEdOtKmC1/Kf8=
+		M11FMi9qGbk7sF327Yl8iAJHs8o=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jl1yJ7tDglNEuLFt0EiZuNF+kAs=
+		ddi/THasG64oOv0zupW7vc/5Eo8=
 		</data>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mewzrhGUt3+EE+EHdyOG2JZtNCs=
+		Y5056t4EAdc4+FhsUfQpzlr4FKE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			srnEhhJa1OoXWFmiieHWOsmLnLEUvO5YI/9/GF3LrAU=
+			+8TjHTcT1tx7thtQ39zHFf20TyXDEiwv2a0FHeBjQOE=
 			</data>
 		</dict>
 		<key>Headers/TapToPaySDK.h</key>
@@ -81,70 +81,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPQwXHzwfxe86rj5eObl3IcHpGNqwj8qe6Ob17Kgv98=
+			mlGjLN2DVjgwIxArapLMz0jgqyHn0lEg5oYE7gTdr5w=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			krRX/ENGb9erTZJihgDxrpMIKlfVFX4hpT6Giikmsog=
+			4o4Ewqgfn2j8OrRDgGOg6x4bSyKfrH18pY2wqSqSO1U=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1OFOfF+R9WnIsoZcH+arTZ3ks83A87We8LqYuXP1m/0=
+			nFH4Whm/PCVQEzncwkjjZtnn/vXhdEYWXwrnjm+aqZo=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			krRX/ENGb9erTZJihgDxrpMIKlfVFX4hpT6Giikmsog=
+			4o4Ewqgfn2j8OrRDgGOg6x4bSyKfrH18pY2wqSqSO1U=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dgq0b4HCzboYmVN5zloJaXiJyTDsF9uVkkCcBDpWmLU=
+			8rIlpyUSinE7nZnYcB5eghbxZ46ByY+2Nx0qWNzcK0k=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPQwXHzwfxe86rj5eObl3IcHpGNqwj8qe6Ob17Kgv98=
+			mlGjLN2DVjgwIxArapLMz0jgqyHn0lEg5oYE7gTdr5w=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BG2PUbeuTF/t6UkVgM+PmDNbRhuDoKcbKny5XgvCQXE=
+			gW11d3+g4TJB3196IrdsTHrifjmGiM3j9d7MJkj+Q5s=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJdZ12NfbqFIBLaOZm/g24YUFS+L3Ls/k6JPyJz3/6M=
+			VKz4giQPUBdOff58dZOeFUX903Qi9JIt+IVtmG80xno=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BG2PUbeuTF/t6UkVgM+PmDNbRhuDoKcbKny5XgvCQXE=
+			gW11d3+g4TJB3196IrdsTHrifjmGiM3j9d7MJkj+Q5s=
 			</data>
 		</dict>
 		<key>Modules/TapToPaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISpoH7Z+bYuIZ2a6qwK8bFjfq3qrES7SruH3n2tQ4tk=
+			IbbaWN32SZSoq9GMzeWCgHTgtclxDC2ABkhMiRYz7Tc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
