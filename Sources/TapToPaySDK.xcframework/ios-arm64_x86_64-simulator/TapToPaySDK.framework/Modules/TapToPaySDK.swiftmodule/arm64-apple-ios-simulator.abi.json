@@ -2048,6 +2048,36 @@
           },
           {
             "kind": "Function",
+            "name": "relinkAccount",
+            "printedName": "relinkAccount()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TapToPaySDK08WindcaveabC0C13relinkAccountSbSgyYaF",
+            "mangledName": "$s11TapToPaySDK08WindcaveabC0C13relinkAccountSbSgyYaF",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "doTransaction",
             "printedName": "doTransaction(reference:txnType:amount:notificationUrl:customerEmail:callback:)",
             "children": [
@@ -8511,35 +8541,35 @@
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 2261,
+      "offset": 2374,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10544,
+      "offset": 10657,
       "length": 31,
       "value": "\"0.0.0+rev.000000-taptopay.ios\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10817,
+      "offset": 10930,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 11868,
+      "offset": 11981,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24995,
+      "offset": 25108,
       "length": 5,
       "value": "false"
     },

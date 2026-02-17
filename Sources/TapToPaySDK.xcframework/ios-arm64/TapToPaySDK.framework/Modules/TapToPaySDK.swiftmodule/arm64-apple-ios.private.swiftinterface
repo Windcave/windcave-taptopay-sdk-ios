@@ -92,6 +92,7 @@ public class WindcaveTapToPay {
   public func clearOutstandingTransaction() async throws
   public func prepare(forceNewToken: Swift.Bool = false) async throws
   public func isAvailable() async -> Swift.Bool
+  public func relinkAccount() async -> Swift.Bool?
   public func doTransaction(reference: Swift.String, txnType: TapToPaySDK.TransactionType, amount: TapToPaySDK.Amount, notificationUrl: Swift.String?, customerEmail: Swift.String? = nil, callback: TapToPaySDK.TransactionResultCallback?) async throws -> any TapToPaySDK.WindcaveResponse
   public static func getSDKVersion() -> Swift.String
   @objc deinit
