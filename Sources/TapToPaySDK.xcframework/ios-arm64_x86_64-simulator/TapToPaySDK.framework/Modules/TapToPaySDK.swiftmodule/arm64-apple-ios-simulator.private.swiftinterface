@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0 effective-5.10 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)
-// swift-module-flags: -target arm64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TapToPaySDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.4 effective-5.10 (swiftlang-6.2.4.1.4 clang-1700.6.4.2)
+// swift-module-flags: -target arm64-apple-ios15.6-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name TapToPaySDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.4
 import Combine
 import Foundation
 import ProximityReader
@@ -16,7 +16,9 @@ public enum TransactionType : Swift.String {
   case Auth
   case Validate
   case Refund
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -29,17 +31,23 @@ public protocol Connection {
   func queryTransaction(txnId: Swift.String) async throws -> TapToPaySDK.TransactionResponse
 }
 public protocol RequestProvider {
+  #if compiler(>=5.3) && $NonescapableTypes
   func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
 }
 public class DirectRequestProvider : TapToPaySDK.RequestProvider {
   public init(environment: TapToPaySDK.WindcaveEnvironment, apiUsername: Swift.String, apiKey: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
   @objc deinit
 }
 public class ProxyRequestProvider : TapToPaySDK.RequestProvider {
   public init(baseUrl: Swift.String)
   public func setHeader(headerName: Swift.String, value: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
   public func createRequest(path: Swift.String) async throws -> Foundation.URLRequest?
+  #endif
   @objc deinit
 }
 public protocol TapToPayUIDelegate {
@@ -47,12 +55,24 @@ public protocol TapToPayUIDelegate {
   func dismissProgressView(view: TapToPaySDK.PrepareProgressView)
 }
 public typealias TransactionResultCallback = (TapToPaySDK.TransactionResponse) -> Swift.Void
+public class VASProcessingResult {
+  final public let isSuccess: Swift.Bool
+  final public let reprocessPayment: Swift.Bool
+  final public let discountedAmount: TapToPaySDK.Amount?
+  public init(isSuccess: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(isSuccess: Swift.Bool, reprocessPayment: Swift.Bool, with discountedAmount: TapToPaySDK.Amount? = nil)
+  #endif
+  @objc deinit
+}
+public typealias VASResultCallback = (ProximityReader.VASReadResult) async throws -> TapToPaySDK.VASProcessingResult
 public enum WindcaveTapToPayStatus {
   case uninitialized
   case unavailable
   case preparing
   case readyToUse
   case readingCard
+  case handlingVAS
   case transacting
   case transactionFinished
   public static func == (a: TapToPaySDK.WindcaveTapToPayStatus, b: TapToPaySDK.WindcaveTapToPayStatus) -> Swift.Bool
@@ -70,10 +90,12 @@ public enum WindcaveTapToPayStatus {
     get
     set
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public var transactionResponse: (any TapToPaySDK.WindcaveResponse)? {
     get
     set
   }
+  #endif
   @objc deinit
 }
 @available(iOS 16.7, *)
@@ -84,16 +106,27 @@ public class WindcaveTapToPay {
   public var progressView: TapToPaySDK.PrepareProgressView {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(connection: (any TapToPaySDK.Connection)?, requestProvider: (any TapToPaySDK.RequestProvider)?, uiDelegate: (any TapToPaySDK.TapToPayUIDelegate)?, logger: (any TapToPaySDK.TapToPayLogDelegate)?, dataDelegate: (any TapToPaySDK.TapToPayDataDelegate)?) throws
+  #endif
   public func loadPendingTransactionId() async throws
   public func hasOutstandingTransaction() -> Swift.Bool
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getOutstandingTransactionId() -> Swift.String?
+  #endif
   public func restoreTransaction() async throws -> any TapToPaySDK.WindcaveResponse
   public func clearOutstandingTransaction() async throws
   public func prepare(forceNewToken: Swift.Bool = false) async throws
   public func isAvailable() async -> Swift.Bool
+  #if compiler(>=5.3) && $NonescapableTypes
   public func relinkAccount() async -> Swift.Bool?
-  public func doTransaction(reference: Swift.String, txnType: TapToPaySDK.TransactionType, amount: TapToPaySDK.Amount, notificationUrl: Swift.String?, customerEmail: Swift.String? = nil, callback: TapToPaySDK.TransactionResultCallback?) async throws -> any TapToPaySDK.WindcaveResponse
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func readLoyaltyPass(vasRequest: ProximityReader.VASRequest) async throws -> ProximityReader.VASReadResult.ReadEntry?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func doTransaction(reference: Swift.String, txnType: TapToPaySDK.TransactionType, amount: TapToPaySDK.Amount, notificationUrl: Swift.String?, customerEmail: Swift.String? = nil, callback: TapToPaySDK.TransactionResultCallback? = nil, vasRequest: ProximityReader.VASRequest? = nil, stopOnVASResult: Swift.Bool? = false, vasResultCallback: TapToPaySDK.VASResultCallback? = nil) async throws -> any TapToPaySDK.WindcaveResponse
+  #endif
   public static func getSDKVersion() -> Swift.String
   @objc deinit
 }
@@ -204,21 +237,22 @@ public struct Amount : Swift.Comparable {
     get
   }
 }
-public struct WindcaveProgressBar : SwiftUI.View {
-  public var lineWidth: Swift.Float {
+@_Concurrency.MainActor @preconcurrency public struct WindcaveProgressBar : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var lineWidth: Swift.Float {
     get
     set
   }
-  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUI.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
-  public init(lineWidth: Swift.Float)
-  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  @_Concurrency.MainActor @preconcurrency public init(lineWidth: Swift.Float)
   public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19WindcaveProgressBarV4bodyQrvp", 0) __
 }
 
 public struct Currency : Swift.Equatable {
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func get(code: Swift.String) -> TapToPaySDK.Currency?
+  #endif
   public var currencyCode: Swift.String {
     get
   }
@@ -242,11 +276,10 @@ public enum WindcaveLogType {
 public protocol TapToPayLogDelegate {
   func log(_ logType: TapToPaySDK.WindcaveLogType, _ message: Swift.String)
 }
-@_Concurrency.MainActor @preconcurrency public struct PrepareProgressView : SwiftUI.View {
-  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUI.View {
+@_Concurrency.MainActor @preconcurrency public struct PrepareProgressView : SwiftUICore.View {
+  @_Concurrency.MainActor @preconcurrency public var body: some SwiftUICore.View {
     get
   }
-  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
   public typealias Body = @_opaqueReturnTypeOf("$s11TapToPaySDK19PrepareProgressViewV4bodyQrvp", 0) __
 }
 
@@ -256,6 +289,9 @@ public enum TapToPayError : Swift.Error {
   case preparing
   case txnInProgress
   case txnDetailsMissing
+  case txnDetailsInvalid
+  case vasRejected
+  case stoppedOnVAS
   case noOutstandingTxn
   case readerNoDataReturned
   case readerCardDeclined
@@ -274,20 +310,30 @@ public enum WindcaveEnvironment : Swift.String {
   case UAT
   case QA
   case Dev
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
   }
 }
 public protocol TapToPayDataDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
   func getValue(fieldName: Swift.String) async throws -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   func setValue(fieldName: Swift.String, value: Swift.String?) async throws
+  #endif
   func eraseValue(fieldName: Swift.String) async throws
 }
 @_hasMissingDesignatedInitializers public class TapToPayUserDefaultsDataHandler : TapToPaySDK.TapToPayDataDelegate {
+  #if compiler(>=5.3) && $NonescapableTypes
   public func getValue(fieldName: Swift.String) async throws -> Swift.String?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   public func setValue(fieldName: Swift.String, value: Swift.String?) async throws
+  #endif
   public func eraseValue(fieldName: Swift.String) async throws
   @objc deinit
 }
@@ -296,6 +342,7 @@ extension TapToPaySDK.TransactionType : Swift.Hashable {}
 extension TapToPaySDK.TransactionType : Swift.RawRepresentable {}
 extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Equatable {}
 extension TapToPaySDK.WindcaveTapToPayStatus : Swift.Hashable {}
+extension TapToPaySDK.WindcaveProgressBar : Swift.Sendable {}
 extension TapToPaySDK.WindcaveLogType : Swift.Equatable {}
 extension TapToPaySDK.WindcaveLogType : Swift.Hashable {}
 extension TapToPaySDK.PrepareProgressView : Swift.Sendable {}
