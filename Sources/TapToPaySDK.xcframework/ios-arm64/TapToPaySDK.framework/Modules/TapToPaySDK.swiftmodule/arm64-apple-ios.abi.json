@@ -948,6 +948,275 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "VASProcessingResult",
+        "printedName": "VASProcessingResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "isSuccess",
+            "printedName": "isSuccess",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK19VASProcessingResultC9isSuccessSbvp",
+            "mangledName": "$s11TapToPaySDK19VASProcessingResultC9isSuccessSbvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK19VASProcessingResultC9isSuccessSbvg",
+                "mangledName": "$s11TapToPaySDK19VASProcessingResultC9isSuccessSbvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "reprocessPayment",
+            "printedName": "reprocessPayment",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK19VASProcessingResultC16reprocessPaymentSbvp",
+            "mangledName": "$s11TapToPaySDK19VASProcessingResultC16reprocessPaymentSbvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK19VASProcessingResultC16reprocessPaymentSbvg",
+                "mangledName": "$s11TapToPaySDK19VASProcessingResultC16reprocessPaymentSbvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "discountedAmount",
+            "printedName": "discountedAmount",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TapToPaySDK.Amount?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Amount",
+                    "printedName": "TapToPaySDK.Amount",
+                    "usr": "s:11TapToPaySDK6AmountV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11TapToPaySDK19VASProcessingResultC16discountedAmountAA0H0VSgvp",
+            "mangledName": "$s11TapToPaySDK19VASProcessingResultC16discountedAmountAA0H0VSgvp",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TapToPaySDK.Amount?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Amount",
+                        "printedName": "TapToPaySDK.Amount",
+                        "usr": "s:11TapToPaySDK6AmountV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11TapToPaySDK19VASProcessingResultC16discountedAmountAA0H0VSgvg",
+                "mangledName": "$s11TapToPaySDK19VASProcessingResultC16discountedAmountAA0H0VSgvg",
+                "moduleName": "TapToPaySDK",
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(isSuccess:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VASProcessingResult",
+                "printedName": "TapToPaySDK.VASProcessingResult",
+                "usr": "s:11TapToPaySDK19VASProcessingResultC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11TapToPaySDK19VASProcessingResultC9isSuccessACSb_tcfc",
+            "mangledName": "$s11TapToPaySDK19VASProcessingResultC9isSuccessACSb_tcfc",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(isSuccess:reprocessPayment:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "VASProcessingResult",
+                "printedName": "TapToPaySDK.VASProcessingResult",
+                "usr": "s:11TapToPaySDK19VASProcessingResultC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TapToPaySDK.Amount?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Amount",
+                    "printedName": "TapToPaySDK.Amount",
+                    "usr": "s:11TapToPaySDK6AmountV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11TapToPaySDK19VASProcessingResultC9isSuccess16reprocessPayment4withACSb_SbAA6AmountVSgtcfc",
+            "mangledName": "$s11TapToPaySDK19VASProcessingResultC9isSuccess16reprocessPayment4withACSb_SbAA6AmountVSgtcfc",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11TapToPaySDK19VASProcessingResultC",
+        "mangledName": "$s11TapToPaySDK19VASProcessingResultC",
+        "moduleName": "TapToPaySDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "WindcaveTapToPayStatus",
         "printedName": "WindcaveTapToPayStatus",
         "children": [
@@ -1146,6 +1415,46 @@
             "declKind": "EnumElement",
             "usr": "s:11TapToPaySDK08WindcaveabC6StatusO11readingCardyA2CmF",
             "mangledName": "$s11TapToPaySDK08WindcaveabC6StatusO11readingCardyA2CmF",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "handlingVAS",
+            "printedName": "handlingVAS",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TapToPaySDK.WindcaveTapToPayStatus.Type) -> TapToPaySDK.WindcaveTapToPayStatus",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "WindcaveTapToPayStatus",
+                    "printedName": "TapToPaySDK.WindcaveTapToPayStatus",
+                    "usr": "s:11TapToPaySDK08WindcaveabC6StatusO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TapToPaySDK.WindcaveTapToPayStatus.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "WindcaveTapToPayStatus",
+                        "printedName": "TapToPaySDK.WindcaveTapToPayStatus",
+                        "usr": "s:11TapToPaySDK08WindcaveabC6StatusO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11TapToPaySDK08WindcaveabC6StatusO11handlingVASyA2CmF",
+            "mangledName": "$s11TapToPaySDK08WindcaveabC6StatusO11handlingVASyA2CmF",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
               "RawDocComment"
@@ -2078,8 +2387,45 @@
           },
           {
             "kind": "Function",
+            "name": "readLoyaltyPass",
+            "printedName": "readLoyaltyPass(vasRequest:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ProximityReader.VASReadResult.ReadEntry?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ReadEntry",
+                    "printedName": "ProximityReader.VASReadResult.ReadEntry",
+                    "usr": "s:15ProximityReader13VASReadResultV9ReadEntryV"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "VASRequest",
+                "printedName": "ProximityReader.VASRequest",
+                "usr": "s:15ProximityReader10VASRequestC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11TapToPaySDK08WindcaveabC0C15readLoyaltyPass10vasRequest15ProximityReader13VASReadResultV9ReadEntryVSgAF10VASRequestC_tYaKF",
+            "mangledName": "$s11TapToPaySDK08WindcaveabC0C15readLoyaltyPass10vasRequest15ProximityReader13VASReadResultV9ReadEntryVSgAF10VASRequestC_tYaKF",
+            "moduleName": "TapToPaySDK",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "doTransaction",
-            "printedName": "doTransaction(reference:txnType:amount:notificationUrl:customerEmail:callback:)",
+            "printedName": "doTransaction(reference:txnType:amount:notificationUrl:customerEmail:callback:vasRequest:stopOnVASResult:vasResultCallback:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -2158,12 +2504,71 @@
                     ]
                   }
                 ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ProximityReader.VASRequest?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "VASRequest",
+                    "printedName": "ProximityReader.VASRequest",
+                    "usr": "s:15ProximityReader10VASRequestC"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Bool?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((ProximityReader.VASReadResult) async throws -> TapToPaySDK.VASProcessingResult)?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(ProximityReader.VASReadResult) async throws -> TapToPaySDK.VASProcessingResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VASProcessingResult",
+                        "printedName": "TapToPaySDK.VASProcessingResult",
+                        "usr": "s:11TapToPaySDK19VASProcessingResultC"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VASReadResult",
+                        "printedName": "ProximityReader.VASReadResult",
+                        "usr": "s:15ProximityReader13VASReadResultV"
+                      }
+                    ]
+                  }
+                ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:11TapToPaySDK08WindcaveabC0C13doTransaction9reference7txnType6amount15notificationUrl13customerEmail8callbackAA0E8Response_pSS_AA0gJ0OAA6AmountVSSSgAPyAA0gQ0VcSgtYaKF",
-            "mangledName": "$s11TapToPaySDK08WindcaveabC0C13doTransaction9reference7txnType6amount15notificationUrl13customerEmail8callbackAA0E8Response_pSS_AA0gJ0OAA6AmountVSSSgAPyAA0gQ0VcSgtYaKF",
+            "usr": "s:11TapToPaySDK08WindcaveabC0C13doTransaction9reference7txnType6amount15notificationUrl13customerEmail8callback10vasRequest15stopOnVASResult0Q14ResultCallbackAA0E8Response_pSS_AA0gJ0OAA6AmountVSSSgASyAA0gX0VcSg15ProximityReader10VASRequestCSgSbSgAA013VASProcessingV0CAW07VASReadV0VYaKcSgtYaKF",
+            "mangledName": "$s11TapToPaySDK08WindcaveabC0C13doTransaction9reference7txnType6amount15notificationUrl13customerEmail8callback10vasRequest15stopOnVASResult0Q14ResultCallbackAA0E8Response_pSS_AA0gJ0OAA6AmountVSSSgASyAA0gX0VcSg15ProximityReader10VASRequestCSgSbSgAA013VASProcessingV0CAW07VASReadV0VYaKcSgtYaKF",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
               "AccessControl",
@@ -6177,6 +6582,8 @@
             "mangledName": "$s11TapToPaySDK19WindcaveProgressBarV9lineWidthSfvp",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
+              "Preconcurrency",
+              "Custom",
               "AccessControl"
             ],
             "accessors": [
@@ -6320,6 +6727,8 @@
             "mangledName": "$s11TapToPaySDK19WindcaveProgressBarV9lineWidthACSf_tcfc",
             "moduleName": "TapToPaySDK",
             "declAttributes": [
+              "Preconcurrency",
+              "Custom",
               "AccessControl"
             ],
             "init_kind": "Designated"
@@ -6330,6 +6739,8 @@
         "mangledName": "$s11TapToPaySDK19WindcaveProgressBarV",
         "moduleName": "TapToPaySDK",
         "declAttributes": [
+          "Preconcurrency",
+          "Custom",
           "AccessControl",
           "RawDocComment"
         ],
@@ -6376,6 +6787,13 @@
             ],
             "usr": "s:7SwiftUI4ViewP",
             "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -7344,6 +7762,117 @@
           },
           {
             "kind": "Var",
+            "name": "txnDetailsInvalid",
+            "printedName": "txnDetailsInvalid",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TapToPaySDK.TapToPayError.Type) -> TapToPaySDK.TapToPayError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TapToPayError",
+                    "printedName": "TapToPaySDK.TapToPayError",
+                    "usr": "s:11TapToPaySDK0abC5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TapToPaySDK.TapToPayError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TapToPayError",
+                        "printedName": "TapToPaySDK.TapToPayError",
+                        "usr": "s:11TapToPaySDK0abC5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11TapToPaySDK0abC5ErrorO17txnDetailsInvalidyA2CmF",
+            "mangledName": "$s11TapToPaySDK0abC5ErrorO17txnDetailsInvalidyA2CmF",
+            "moduleName": "TapToPaySDK"
+          },
+          {
+            "kind": "Var",
+            "name": "vasRejected",
+            "printedName": "vasRejected",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TapToPaySDK.TapToPayError.Type) -> TapToPaySDK.TapToPayError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TapToPayError",
+                    "printedName": "TapToPaySDK.TapToPayError",
+                    "usr": "s:11TapToPaySDK0abC5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TapToPaySDK.TapToPayError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TapToPayError",
+                        "printedName": "TapToPaySDK.TapToPayError",
+                        "usr": "s:11TapToPaySDK0abC5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11TapToPaySDK0abC5ErrorO11vasRejectedyA2CmF",
+            "mangledName": "$s11TapToPaySDK0abC5ErrorO11vasRejectedyA2CmF",
+            "moduleName": "TapToPaySDK"
+          },
+          {
+            "kind": "Var",
+            "name": "stoppedOnVAS",
+            "printedName": "stoppedOnVAS",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(TapToPaySDK.TapToPayError.Type) -> TapToPaySDK.TapToPayError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TapToPayError",
+                    "printedName": "TapToPaySDK.TapToPayError",
+                    "usr": "s:11TapToPaySDK0abC5ErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "TapToPaySDK.TapToPayError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TapToPayError",
+                        "printedName": "TapToPaySDK.TapToPayError",
+                        "usr": "s:11TapToPaySDK0abC5ErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11TapToPaySDK0abC5ErrorO12stoppedOnVASyA2CmF",
+            "mangledName": "$s11TapToPaySDK0abC5ErrorO12stoppedOnVASyA2CmF",
+            "moduleName": "TapToPaySDK"
+          },
+          {
+            "kind": "Var",
             "name": "noOutstandingTxn",
             "printedName": "noOutstandingTxn",
             "children": [
@@ -7835,6 +8364,13 @@
             "printedName": "Sendable",
             "usr": "s:s8SendableP",
             "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
           }
         ]
       },
@@ -8534,42 +9070,49 @@
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1448,
+      "offset": 5401,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 2374,
+      "offset": 6783,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10657,
+      "offset": 15156,
       "length": 31,
       "value": "\"0.0.0+rev.000000-taptopay.ios\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "StringLiteral",
-      "offset": 10930,
+      "offset": 15429,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 11981,
+      "offset": 16480,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25108,
+      "offset": 29607,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/igor.krushch\/.jenkins\/workspace\/TapToPay-Swift-SDK-xcframework\/Config\/Release\/TapToPaySDK\/WindcaveTapToPay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 53319,
       "length": 5,
       "value": "false"
     },
